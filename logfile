@@ -1,0 +1,10 @@
+close
+lrwx------ 1 root root 64 Sep  3 10:14 /proc/15257/fd/0 -> /dev/pts/0
+lrwx------ 1 root root 64 Sep  3 10:14 /proc/15257/fd/1 -> /dev/pts/0
+lrwx------ 1 root root 64 Sep  3 10:14 /proc/15257/fd/2 -> /dev/pts/0
+lr-x------ 1 root root 64 Sep  3 10:14 /proc/15257/fd/3 -> pipe:[12633361]
+lrwx------ 1 root root 64 Sep  3 10:14 /proc/15257/fd/4 -> /dev/pts/1
+lrwx------ 1 root root 64 Sep  3 10:14 /proc/15257/fd/0 -> pipe:[12633378]
+lrwx------ 1 root root 64 Sep  3 10:14 /proc/15257/fd/4 -> /dev/pts/1
+lrwx------ 1 root root 64 Sep  3 10:14 /proc/15257/fd/0 -> pipe:[12633384]
+lrwx------ 1 root root 64 Sep  3 10:14 /proc/15257/fd/4 -> /dev/pts/1
